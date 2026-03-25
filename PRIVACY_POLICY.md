@@ -47,6 +47,6 @@ If the extension's data behavior changes in the future, this policy should be up
 
 ## Contact
 
-Publisher name: `Tolga Ayhan`
+Publisher name: `HoverZoomy Team`
 
-Support email or website: `tolgaayhan44@gmail.com`
+Support email or website: `ayhandogan4434@gmail.com`
